@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788424445568",
+    "project_id": "galacticus-store",
+    "storage_bucket": "galacticus-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788424445568:android:0351ed25b7603f57d72065",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce_dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyN-yq9u--0dB1DlFBibXxI7Ydy6CSB-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

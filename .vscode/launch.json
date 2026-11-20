@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "name": "Flutter (lib/firebase_options.dart)",
+      "type": "dart",
+      "request": "launch",
+      "program": "lib/firebase_options.dart"
+    }
+  ]
+}
